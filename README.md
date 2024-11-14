@@ -1,4 +1,7 @@
 # Information-Technology
+
+Project overview and directory structure.
+
 ## Project Overview
 
 This project is divided into three main sections:
@@ -23,3 +26,4 @@ This project is divided into three main sections:
   - [Azure Crash Course](The_Labs/01_Azure_Crash_Course/)
   - [Ticketing Systems](The_Labs/03_Ticketing_Systems/)
   - ...
+**README.md**: Project overview and directory structure.
